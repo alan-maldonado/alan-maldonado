@@ -71,6 +71,19 @@ Full Stack engineer with 15+ years of experience building web applications, data
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alan-maldonado&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-maldonado&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/alan-maldonado/alan-maldonado/blob/output/github-snake-dark.svg" />
+</p>
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmaldonado/)

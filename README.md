@@ -1,0 +1,1 @@
+[![JavaScript Junior Certificate](https://img.shields.io/badge/JavaScript_Certified-Junior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/9d31bb21-7038-496b-b8bd-b0f0a783080d)

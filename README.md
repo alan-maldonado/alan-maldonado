@@ -10,9 +10,9 @@ Full Stack engineer with 15+ years of experience building web applications, data
 
 | Company | Role | Highlights |
 |---|---|---|
-| **Bizee** | Software Engineer | Current role |
+| **Bizee** | Software Engineer Lead | Current role |
+| **Wizeline** | Software Engineer → Staff Software Engineer | JS, Node.js, Python, Data Science; grew with the company from ~100 to 2000+ employees |
 | **Scalable Press** | Sr. Software Engineer | Led engineering in a focused team of 20+ engineers in GDL |
-| **Wizeline** | Software Engineer → Sr. Software Engineer | JS, Node.js, Python, Data Science; grew with the company from ~100 to 500+ employees |
 | **Neoris** | Software Engineer | Analysis, design & implementation for international clients |
 | **Nubeware** | Software Engineer | .NET development, US client collaboration |
 | **Homex** | Software Engineer | Built internal web apps for business process management in .NET/ASP.NET |
@@ -34,6 +34,7 @@ Full Stack engineer with 15+ years of experience building web applications, data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -43,9 +44,20 @@ Full Stack engineer with 15+ years of experience building web applications, data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**Experimentation & Analytics**
+
+![Amplitude](https://img.shields.io/badge/Amplitude-1A1A1A?style=flat-square&logo=amplitude&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-52BD94?style=flat-square&logo=segment&logoColor=white)
+![Braze](https://img.shields.io/badge/Braze-FF4F00?style=flat-square&logo=braze&logoColor=white)
+![Optimizely](https://img.shields.io/badge/Optimizely-003D4C?style=flat-square&logo=optimizely&logoColor=white)
+
 ---
 
-## Certifications
+## Certifications & Learning
+
+30+ courses completed on Udemy — React, Node.js, Python, AWS and more.
+
+
 
 [![JavaScript Junior](https://img.shields.io/badge/JavaScript_Certified-Junior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/9d31bb21-7038-496b-b8bd-b0f0a783080d)
 [![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-10-10&ci=AWS00638910)

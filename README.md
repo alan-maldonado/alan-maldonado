@@ -75,7 +75,7 @@ Full Stack engineer with 15+ years of experience building web applications, data
 
 <p align="center">
   <img src="https://github-readme-stats-alanmaldonado.vercel.app/api?username=alan-maldonado&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-alanmaldonado.vercel.app/api/top-langs/?username=alan-maldonado&count_private=true&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,shell" height="160" />
+  <img src="https://github-readme-stats-alanmaldonado.vercel.app/api/top-langs/?username=alan-maldonado&count_private=true&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,shell&langs_count=8" height="160" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alan-maldonado&theme=dark&hide_border=true" height="160" />
